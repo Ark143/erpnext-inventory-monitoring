@@ -1,0 +1,2 @@
+# Patches for Inventory Monitoring App
+# Add patches here as needed
