@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include inventory_monitoring *.css
+recursive-include inventory_monitoring *.csv
+recursive-include inventory_monitoring *.html
+recursive-include inventory_monitoring *.ico
+recursive-include inventory_monitoring *.js
+recursive-include inventory_monitoring *.json
+recursive-include inventory_monitoring *.md
+recursive-include inventory_monitoring *.png
+recursive-include inventory_monitoring *.py
+recursive-include inventory_monitoring *.svg
+recursive-include inventory_monitoring *.txt
+recursive-exclude inventory_monitoring *.pyc
